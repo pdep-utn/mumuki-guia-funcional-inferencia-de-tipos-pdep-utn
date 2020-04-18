@@ -1,0 +1,28 @@
+---
+name: Práctica de Inferencia de Tipos, Recargada
+locale: es
+type: practice
+beta: false
+teacher_info: ''
+language: haskell
+id_format: "%05d"
+order:
+- 10
+- 20
+- 30
+- 40
+- 50
+- 60
+- 70
+- 80
+- 90
+- 100
+- 110
+- 120
+- 130
+- 140
+- 150
+- 160
+- 170
+- 300
+private: false
