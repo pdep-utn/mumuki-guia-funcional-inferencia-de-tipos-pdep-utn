@@ -9,4 +9,4 @@ describe "tipos5" $ do
     (f1 (&&) True False) `shouldBe` False
 
   it "la expresion f1 (>) 2 5 debería tipar" $ do
-    (f1 (>) 2 5) `shouldBe` False
+    (f1 (>) 2 5) `shouldBe` True
